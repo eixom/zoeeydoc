@@ -22,23 +22,25 @@ ZoeeyDoc是一个DocBook文档构建工具，支持 single-html、html、chm、p
 
 ## 下载
 
-[http://code.google.com/p/zoeeydoc/downloads/detail?name=ZoeeyDoc-0.1.zip ZoeeyDoc-0.1.zip]
-== 手册 == 
-|| 格式 || 地址 || checksum|| 备注 ||
-|| chm  || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.chm chm] || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.chm.checksum checksum]|| 无法查看：文件属性，解除锁定 ||
-|| html  || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.zip zip] || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.zip.checksum checksum]||  ||
-|| pdf  || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.pdf pdf] || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.pdf.checksum checksum]||  ||
-|| single  || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc-single.zip zip] || [http://zoeeydoc.googlecode.com/hg/build/zoeeydoc-single.zip.checksum checksum]||  ||
+[ZoeeyDoc-0.1.zip](http://code.google.com/p/zoeeydoc/downloads/detail?name=ZoeeyDoc-0.1.zip)
+
+## 手册
+| 格式 | 地址 | checksum| 备注 |
+| :------------ |:---------------:|:-----:| -----:|
+| chm  | [chm](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.chm) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.chm.checksum)| 无法查看：文件属性，解除锁定 |
+| html  | [zip](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.zip) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.zip.checksum)|  |
+| pdf  | [pdf](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.pdf) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.pdf.checksum)|  |
+| single  | [zip](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc-single.zip) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc-single.zip.checksum)|  |
 
 
 
-== 示例项目 ==
-http://code.google.com/p/cnphpdocs/ 【含文档源码、各格式下载】
+## 示例项目
+http://code.google.com/p/cnphpdocs 【含文档源码、各格式下载】
 
-http://code.google.com/p/yafphp/     【含文档源码】
+http://code.google.com/p/yafphp     【含文档源码】
 
-http://code.google.com/p/zoeeyphp/  【含文档源码、各格式下载】
-== 使用说明 ==
+http://github.com/zoeey/zoeeyphp  【含文档源码、各格式下载】
+## 使用说明
 
 ```
 ========================
@@ -70,14 +72,14 @@ java -jar ZoeeyDoc.jar -b docs/books/zoeeydoc -t chm
 ```
 
 ## 参考资料
-[http://www.docbook.org/ DocBook]<br />
-[http://www.sagehill.net/docbookxsl/index.html DocBook XSL: The Complete Guide]<br />
-[http://blog.zoeey.org/2011/03/12/zoeeydoc-docbook/ ZoeeyDoc 使用技巧]
+[DocBook](http://www.docbook.org/)
+[DocBook XSL: The Complete Guide](http://www.sagehill.net/docbookxsl/index.html)
+[ZoeeyDoc 使用技巧](http://moxie.sinaapp.com/2011/03/12/zoeeydoc-docbook/)
 
 ## 其他
-java运行所需要的Jre：[http://www.java.com/en/download/index.jsp Jre]
+java运行所需要的Jre：[http://www.java.com/en/download/index.jsp](JRE)
 
-chm生成需要的hhc:[http://msdn.microsoft.com/en-us/library/ms669985%28v=vs.85%29.aspx Microsoft HTML Help Downloads]
+chm生成需要的hhc:[Microsoft HTML Help Downloads](http://msdn.microsoft.com/en-us/library/ms669985%28v=vs.85%29.aspx)
 
 ## 联系作者
 
