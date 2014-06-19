@@ -22,15 +22,15 @@ ZoeeyDoc是一个DocBook文档构建工具，支持 single-html、html、chm、p
 
 ## 下载
 
-[ZoeeyDoc-0.1.zip](http://code.google.com/p/zoeeydoc/downloads/detail?name=ZoeeyDoc-0.1.zip)
+[ZoeeyDoc-0.1.zip](https://github.com/zoeey/zoeeydoc/raw/master/build/ZoeeyDoc-0.1.zip)
 
 ## 手册
 | 格式 | 地址 | checksum| 备注 |
 | :------------ |:---------------:|:-----:| -----:|
-| chm  | [chm](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.chm) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.chm.checksum)| 无法查看：文件属性，解除锁定 |
-| html  | [zip](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.zip) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.zip.checksum)|  |
-| pdf  | [pdf](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.pdf) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc.pdf.checksum)|  |
-| single  | [zip](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc-single.zip) | [checksum](http://zoeeydoc.googlecode.com/hg/build/zoeeydoc-single.zip.checksum)|  |
+| chm  | [chm](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.chm) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.chm.checksum)| 无法查看：文件属性，解除锁定 |
+| html  | [zip](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.zip) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.zip.checksum)|  |
+| pdf  | [pdf](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.pdf) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.pdf.checksum)|  |
+| single  | [zip](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc-single.zip) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc-single.zip.checksum)|  |
 
 
 
