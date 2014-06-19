@@ -77,7 +77,7 @@ java -jar ZoeeyDoc.jar -b docs/books/zoeeydoc -t chm
 [ZoeeyDoc 使用技巧](http://moxie.sinaapp.com/2011/03/12/zoeeydoc-docbook/)
 
 ## 其他
-java运行所需要的Jre：[http://www.java.com/en/download/index.jsp](JRE)
+java运行所需：[JRE](http://www.java.com/en/download/index.jsp)
 
 chm生成需要的hhc:[Microsoft HTML Help Downloads](http://msdn.microsoft.com/en-us/library/ms669985%28v=vs.85%29.aspx)
 
