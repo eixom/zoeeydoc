@@ -22,15 +22,15 @@ ZoeeyDoc是一个DocBook文档构建工具，支持 single-html、html、chm、p
 
 ## 下载
 
-[ZoeeyDoc-0.1.zip](https://github.com/zoeey/zoeeydoc/raw/master/build/ZoeeyDoc-0.1.zip)
+[ZoeeyDoc-0.1.zip](https://github.com/eixom/zoeeydoc/raw/master/build/ZoeeyDoc-0.1.zip)
 
 ## 手册
 | 格式 | 地址 | checksum| 备注 |
 | :------------ |:---------------:|:-----:| -----:|
-| chm  | [chm](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.chm) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.chm.checksum)| 无法查看：文件属性，解除锁定 |
-| html  | [zip](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.zip) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.zip.checksum)|  |
-| pdf  | [pdf](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.pdf) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc.pdf.checksum)|  |
-| single  | [zip](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc-single.zip) | [checksum](https://github.com/zoeey/zoeeydoc/raw/master/build/zoeeydoc-single.zip.checksum)|  |
+| chm  | [chm](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc.chm) | [checksum](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc.chm.checksum)| 无法查看：文件属性，解除锁定 |
+| html  | [zip](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc.zip) | [checksum](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc.zip.checksum)|  |
+| pdf  | [pdf](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc.pdf) | [checksum](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc.pdf.checksum)|  |
+| single  | [zip](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc-single.zip) | [checksum](https://github.com/eixom/zoeeydoc/raw/master/build/zoeeydoc-single.zip.checksum)|  |
 
 
 
@@ -39,7 +39,7 @@ http://code.google.com/p/cnphpdocs 【含文档源码、各格式下载】
 
 http://code.google.com/p/yafphp     【含文档源码】
 
-http://github.com/zoeey/zoeeyphp  【含文档源码、各格式下载】
+http://github.com/eixom/zoeeyphp  【含文档源码、各格式下载】
 ## 使用说明
 
 ```
@@ -73,8 +73,10 @@ java -jar ZoeeyDoc.jar -b docs/books/zoeeydoc -t chm
 
 ## 参考资料
 [DocBook](http://www.docbook.org/)
+
 [DocBook XSL: The Complete Guide](http://www.sagehill.net/docbookxsl/index.html)
-[ZoeeyDoc 使用技巧](http://moxie.sinaapp.com/2011/03/12/zoeeydoc-docbook/)
+
+[ZoeeyDoc 使用技巧](http://blog.phploser.com/2011/03/12/zoeeydoc-docbook/)
 
 ## 其他
 java运行所需：[JRE](http://www.java.com/en/download/index.jsp)
